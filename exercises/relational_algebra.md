@@ -158,9 +158,7 @@ What is the difference between the two results?
 
 Compute:
 
-$$
-CS\_STUDENTS\cap HONORS\_STUDENTS
-$$
+CS_STUDENTS $\cap$ HONORS_STUDENTS
 
 What does the result represent in this example?
 
