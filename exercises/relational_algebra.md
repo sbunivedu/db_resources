@@ -109,7 +109,7 @@ Consider:
 |       102 | Bob   |
 |       103 | Carol |
 
-**HONORS\_STUDENTS(StudentID, Name)**
+**HONORS_STUDENTS(StudentID, Name)**
 
 | StudentID | Name  |
 | --------: | ----- |
@@ -122,7 +122,7 @@ Consider:
 Compute:
 
 $$
-CS\_STUDENTS\cup HONORS\_STUDENTS
+CS\_ STUDENTS\cup HONORS\_ STUDENTS
 $$
 
 ## Problem 9
@@ -132,13 +132,13 @@ How would the result change if the two relations had different schemas?
 For example:
 
 $$
-CS\_STUDENTS(StudentID,Name)
+CS\_ STUDENTS(StudentID,Name)
 $$
 
 and
 
 $$
-HONORS\_STUDENTS(StudentID,GPA)
+HONORS\_ STUDENTS(StudentID,GPA)
 $$
 
 Can these relations be directly unioned? Explain.
