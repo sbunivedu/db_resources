@@ -121,6 +121,8 @@ Consider:
 
 Compute:
 
+$x\_1$
+
 $$
 CS\_STUDENTS\cup HONORS\_STUDENTS
 $$
