@@ -122,7 +122,7 @@ Consider:
 Compute:
 
 $$
-CS\_ STUDENTS\cup HONORS\_ STUDENTS
+CS\_STUDENTS\cup HONORS\_STUDENTS
 $$
 
 ## Problem 9
