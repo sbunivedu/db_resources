@@ -3,15 +3,15 @@
 The following problems involve multi-operation expressions that involve
 some of the following relational algebraic operations:
 
-* Selection (\sigma)
-* Projection (\pi)
-* Union (\cup)
+* Selection ($\sigma$)
+* Projection ($\pi$)
+* Union ($\cup$)
 * Set difference (-)
-* Intersection (\cap)
-* Cartesian product (\times)
-* Theta-join (\bowtie_\theta)
-* Natural join
-* Renaming (\rho)
+* Intersection ($\cap$)
+* Cartesian product ($\times$)
+* Theta-join ($\bowtie_\theta$)
+* Natural join ($\bowtie$)
+* Renaming ($\rho$)
 
 ## Instructions
 
@@ -121,11 +121,7 @@ Consider:
 
 Compute:
 
-$x\_1$
-
-$$
-CS\_STUDENTS\cup HONORS\_STUDENTS
-$$
+CS_STUDENTS $\cup$ HONORS_STUDENTS
 
 ## Problem 9
 
@@ -133,15 +129,11 @@ How would the result change if the two relations had different schemas?
 
 For example:
 
-$$
-CS\_ STUDENTS(StudentID,Name)
-$$
+CS_STUDENTS(StudentID,Name)
 
 and
 
-$$
-HONORS\_ STUDENTS(StudentID,GPA)
-$$
+HONORS_STUDENTS(StudentID,GPA)
 
 Can these relations be directly unioned? Explain.
 
@@ -151,15 +143,11 @@ Can these relations be directly unioned? Explain.
 
 Using the relations from Problems 8–9, compute:
 
-$$
-CS\_STUDENTS-HONORS\_STUDENTS
-$$
+CS_STUDENTS-HONORS_STUDENTS
 
 Then compute:
 
-$$
-HONORS\_STUDENTS-CS\_STUDENTS
-$$
+HONORS_STUDENTS-CS_STUDENTS
 
 What is the difference between the two results?
 
