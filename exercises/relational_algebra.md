@@ -109,7 +109,7 @@ Consider:
 |       102 | Bob   |
 |       103 | Carol |
 
-**HONORS_STUDENTS(StudentID, Name)**
+**HONORS\_STUDENTS(StudentID, Name)**
 
 | StudentID | Name  |
 | --------: | ----- |
@@ -122,7 +122,7 @@ Consider:
 Compute:
 
 $$
-CS_STUDENTS\cup HONORS_STUDENTS
+CS\_STUDENTS\cup HONORS\_STUDENTS
 $$
 
 ## Problem 9
