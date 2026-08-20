@@ -132,13 +132,13 @@ How would the result change if the two relations had different schemas?
 For example:
 
 $$
-CS_STUDENTS(StudentID,Name)
+CS\_STUDENTS(StudentID,Name)
 $$
 
 and
 
 $$
-HONORS_STUDENTS(StudentID,GPA)
+HONORS\_STUDENTS(StudentID,GPA)
 $$
 
 Can these relations be directly unioned? Explain.
@@ -150,13 +150,13 @@ Can these relations be directly unioned? Explain.
 Using the relations from Problems 8–9, compute:
 
 $$
-CS_STUDENTS-HONORS_STUDENTS
+CS\_STUDENTS-HONORS\_STUDENTS
 $$
 
 Then compute:
 
 $$
-HONORS_STUDENTS-CS_STUDENTS
+HONORS\_STUDENTS-CS\_STUDENTS
 $$
 
 What is the difference between the two results?
@@ -169,7 +169,7 @@ What is the difference between the two results?
 Compute:
 
 $$
-CS_STUDENTS\cap HONORS_STUDENTS
+CS\_STUDENTS\cap HONORS\_STUDENTS
 $$
 
 What does the result represent in this example?
