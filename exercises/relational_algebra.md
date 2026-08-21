@@ -143,9 +143,7 @@ Can these relations be directly unioned? Explain.
 
 Using the relations from Problems 8–9, compute:
 
-$$
-CS\_STUDENTS - HONORS\_STUDENTS
-$$
+CS_STUDENTS-HONORS_STUDENTS
 
 Then compute:
 
