@@ -143,7 +143,9 @@ Can these relations be directly unioned? Explain.
 
 Using the relations from Problems 8–9, compute:
 
-CS_STUDENTS-HONORS_STUDENTS
+$$
+CS\_STUDENTS - HONORS\_STUDENTS
+$$
 
 Then compute:
 
@@ -224,7 +226,7 @@ $$
 |R\times S|=?
 $$
 
-If (R) has 3 attributes and (S) has 4 attributes, how many attributes does (R\times S) have?
+If (R) has 3 attributes and (S) has 4 attributes, how many attributes does $R\times S$ have?
 
 # Part VIII — Theta-Join
 
