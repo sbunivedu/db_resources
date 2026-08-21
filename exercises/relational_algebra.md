@@ -233,7 +233,7 @@ If (R) has 3 attributes and (S) has 4 attributes, how many attributes does (R\ti
 Compute:
 
 $$
-R\bowtie_{\substack{R.A<S.B}}S
+R\bowtie_{R.A<S.B}S
 $$
 
 **R(A, B)**
